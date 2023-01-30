@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://www.linkedin.com/in/jkaminski97/)
 <h1 align="center">Hi 👋, I'm Jakub Kamiński</h1>
-<h4 align="left">I'm a 4th year student of computer science at [WIT]([https://duckduckgo.com](https://www.wit.edu.pl/studia-inzynierskie/informatyka)), mainly interested in developing web and cross-platform applications. In the future I'd like to develop web and cross-platform applications.</h3>
+<h4 align="left">I'm a 4th year student of computer science, mainly interested in developing web and cross-platform applications. In the future I'd like to develop web and cross-platform applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakubk3697&label=Profile%20views&color=0e75b6&style=flat" alt="jakubk3697" /> </p>
 
@@ -8,10 +8,12 @@
 
 - 🌱 I’m currently learning **TypeScript, NextJS, ReactNative, Jest**
 
+- 🔍 I'm currently looking for **student internships**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jkaminski97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jkaminski97" height="30" width="40" /></a>
-  
+<a href="https://linkedin.com/in/jkaminski97" target="blank"><img align="center" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="jkaminski97" height="30" width="40" /></a>
+<a href="mailto:jakubkaminski3697@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="jakubkaminski3697" height="30" width="40" /></a>
 </p>
 
 
@@ -38,7 +40,6 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
