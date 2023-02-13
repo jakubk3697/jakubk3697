@@ -1,6 +1,9 @@
 [![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://www.linkedin.com/in/jkaminski97/)
 <h1 align="center">Hi 👋, I'm Jakub Kamiński</h1>
-<h4 align="left">I'm student of computer science, currently developing API-based web applications from my own ideas. </h3>
+<p align="left">I'm student of computer science, currently developing web applications from my own ideas to continuously improve my programming skills.
+  My current goal is to join a team working on interesting commercial projects. This would help me to improve my skills while also gaining significant experience.
+  I'm constanly up-to-date with all new tools and features connected in application development.
+</p>
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakubk3697&label=Profile%20views&color=0e75b6&style=flat" alt="jakubk3697" /> </p>
@@ -9,7 +12,7 @@
 
 - 🌱 I’m currently learning **TypeScript, NextJS, ReactNative, Jest**
 
-- 🔍 I'm currently looking for **student internships**
+- 🔍 I'm currently looking for **place to develop current skills**
 
 - 📫 How to reach me **jakubkaminski3697@gmail.com**
 
@@ -43,5 +46,4 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
