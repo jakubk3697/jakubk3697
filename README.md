@@ -1,7 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://www.linkedin.com/in/jkaminski97/)
 <h1 align="center">Hi 👋, I'm Jakub Kamiński</h1>
 <p align="left">I'm student of computer science, currently developing web applications from my own ideas to continuously improve my programming skills.
-  My current goal is to join a team working on interesting commercial projects. This would help me to improve my skills while also gaining significant experience.
   I'm constanly up-to-date with all new tools and features connected in application development.
 </p>
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -11,8 +10,6 @@
 - 🔭 I’m currently working on [FilmFiesta](https://github.com/jakubk3697/FilmFiesta) web application
 
 - 🌱 I’m currently learning **TypeScript, NextJS, ReactNative, Jest**
-
-- 🔍 I'm currently looking for **place to develop current skills**
 
 - 📫 How to reach me **jakubkaminski3697@gmail.com**
 
