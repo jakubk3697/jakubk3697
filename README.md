@@ -7,9 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakubk3697&label=Profile%20views&color=0e75b6&style=flat" alt="jakubk3697" /> </p>
 
-- 🔭 I’m currently working on [AIMovieApp](https://github.com/jakubk3697/NextJS_MovieApp) web application
-
-- 🌱 I’m currently learning **TypeScript, NextJS, ReactNative, Jest**
+- 🌱 I’m currently learning **TypeScript, NextJS, Astro, ReactNative (Expo), Playwright**
 
 - 📫 How to reach me **jakubkaminski3697@gmail.com**
 
