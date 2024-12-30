@@ -1,13 +1,8 @@
 [![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://www.linkedin.com/in/jkaminski97/)
 <h1 align="center">Hi 👋, I'm Jakub Kamiński</h1>
-<p align="left">I'm student of computer science, currently developing web applications from my own ideas to continuously improve my programming skills.
-  I'm constanly up-to-date with all new tools and features connected in application development.
-</p>
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakubk3697&label=Profile%20views&color=0e75b6&style=flat" alt="jakubk3697" /> </p>
-
-- 🌱 I’m currently learning **TypeScript, NextJS, Astro, ReactNative (Expo), Playwright**
 
 - 📫 How to reach me **jakubkaminski3697@gmail.com**
 
