@@ -2,12 +2,6 @@
 <h1 align="center">Hi 👋, I'm Jakub Kamiński</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakubk3697&label=Profile%20views&color=0e75b6&style=flat" alt="jakubk3697" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="mailto:jakubkaminski3697@gmail.com" target="_blank">jakubkaminski3697@gmail.com</a><br>
-  <a href="https://www.linkedin.com/in/jkaminski97/" target="_blank">linkedin.com/in/jkaminski97</a>
-</p>
-
 ---
 
 ### Languages
