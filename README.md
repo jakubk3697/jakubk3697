@@ -1,11 +1,21 @@
 [![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://www.linkedin.com/in/jkaminski97/)
 <h1 align="center">Hi 👋, I'm Jakub Kamiński</h1>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="mailto:jakubkaminski3697@gmail.com" target="_blank">jakubkaminski3697@gmail.com</a><br>
+  <a href="https://www.linkedin.com/in/jkaminski97/" target="_blank">linkedin.com/in/jkaminski97</a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakubk3697&label=Profile%20views&color=0e75b6&style=flat" alt="jakubk3697" /> </p>
+
+---
 
 ### Languages
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
+
+---
 
 ### Frontend Development
 
