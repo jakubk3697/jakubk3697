@@ -37,8 +37,10 @@
 [![Zustand](https://img.shields.io/badge/Zustand-6C5CE7?style=for-the-badge&logo=zustand&logoColor=white)](https://docs.pmnd.rs/zustand)
 
 #### Styling
-[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![Tailwind](https://img.shields.io/badge/Tailwind-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
+[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcn&logoColor=white)](https://ui.shadcn.com)
+[![Flowbite](https://img.shields.io/badge/Flowbite-0ABF53?style=for-the-badge&logo=flowbite&logoColor=white)](https://flowbite.com)
 
 ---
 
@@ -61,6 +63,7 @@
 ### Tools and Platforms
 
 #### Development Tools
+[![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://www.cursor.so)
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
