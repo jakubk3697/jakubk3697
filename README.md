@@ -37,7 +37,7 @@
 ![Zustand](https://img.shields.io/badge/Zustand-6C5CE7?style=for-the-badge&logo=zustand&logoColor=white)
 
 #### Styling
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ---
